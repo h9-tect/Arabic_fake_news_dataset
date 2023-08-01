@@ -31,9 +31,11 @@ It is essential to note that the dataset may require preprocessing steps to ensu
 
 If you use this dataset in your research or projects, we kindly request you to cite the source:
 
-@misc{Arabic_fake_news_dataset,
+
+@misc
+{Arabic_fake_news_dataset,
   title = {Arabic_fake_news_dataset},
-  author = {Hesham Haroon},
+  author = {Hesham Haroon, Matsda2sh},
   year = {2023}
 }
 
